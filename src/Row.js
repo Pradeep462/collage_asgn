@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from './axios';
+
 import "./Row.css";
 
 const base_url = "https://image.tmdb.org/t/p/original/"
@@ -23,6 +24,9 @@ const Row=({title,fetchURL, isLargeRow})=>{
 //console.log(movies);
 
     return (
+
+       
+
         <div  className="row">
 
           <h2>{title}</h2>
@@ -38,6 +42,8 @@ const Row=({title,fetchURL, isLargeRow})=>{
                  )  }
           </div>
         </div>
+
+      
     );
 
 }
