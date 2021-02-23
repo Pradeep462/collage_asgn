@@ -3,24 +3,25 @@ import React, { useEffect, useState } from "react";
 import requests from "./requests";
 
 
-const Banner=()=>{
+const Banner=({fetchURL})=>{
 
-   const [movie, setMovie] = useState( [] );
+   const [movie, setMovie] = useState([]);
 
 
    useEffect(()=>{ // 
     async function fetchData(){
-        const request =  await  axios.get(requests.fetchActionMovies); //fetch(`https://api.themoviedb.org/3/movie/550?api_key=e0b07ffc884de8b4da0f02dbb9a478a9`).then((responce)=>{
+        const request =  await  axios.get(requests.fetchActionMovies); //fetch(`https://api.themoviedb.org/3/discover/movie?api_key=43eafacaa18cb599da684f2e10dab6e0&with_genres=28`).then((responce)=>{
             setMovie(request.data.results[
-                Math.floor(Math.random() * request.data.results.length)
+                Math.floor(Math.random() * request.data.results.length) 
             ]);
+           // console.log(request); 
             return request;         
     }
      fetchData();
    
 },[]);
 
- console.log(movie);  
+ //console.log(movie);  
 
     return(
      <header className="banner"

@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       {/* {Nav} */}
-      <Banner />
+      <Banner fetchURL={requests.fetchActionMovies} />
       <Row title="NETFLIX ORIGINALS" fetchURL={requests.fetchActionMovies} isLargeRow/>
 
       <Row title="Traending Movies"  fetchURL={requests.fetchTrendingMovies}/>
@@ -17,7 +17,8 @@ function App() {
       <Row title="Action Movies"  fetchURL={requests.fetchActionMovies}/> 
       <Row title="Romance Movies"  fetchURL={requests.fetchRomanceMovies} />
        
-     
+             
+
     </div>
   );
 }

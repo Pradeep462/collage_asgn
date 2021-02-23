@@ -13,6 +13,7 @@ const Row=({title,fetchURL, isLargeRow})=>{
             const request =  await  axios.get(fetchURL); //fetch(`https://api.themoviedb.org/3/movie/550?api_key=e0b07ffc884de8b4da0f02dbb9a478a9`).then((responce)=>{
            setMovies(request.data.results);
            
+
             return request;
         }
          fetchData();
