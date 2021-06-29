@@ -182,70 +182,6 @@ export const warm_palces = [
       tips_to_remember:
         "Make sure that you plan a long holiday as the place is just not enough to explore on a weekend",
     },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    }
   ];
   
   export const beech_city = [
@@ -415,38 +351,6 @@ export const warm_palces = [
       places_to_eat: ["Chamunda Restaurant", "O Coqueiro", "Apana Foodland"],
       tips_to_remember:
         "Engage in watersports and visit the shooting spots of Diu",
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
     }
   ];
   
@@ -481,7 +385,6 @@ export const warm_palces = [
           places_to_eat: ["Periyar Tiger Cafe Restaurant","Bamboo Cafe","Hotel Thekkady Cafe"],
           tips_to_remember: "Avoid attention of wild animals by wear earthy tones like brown and green",
         },
-        
         {
             id : "14",
           name: "Jim Corbett National Park, Uttarakhand",
@@ -497,70 +400,6 @@ export const warm_palces = [
           places_to_eat: ["Mudhouse Under Mangoes","Barbeque Bay","Kundan’s","Doabas Punjabi Dhaba"],
           tips_to_remember: "Ensure to have all the required permits to enter the park",
         },
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        },
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        },
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        },
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        }
   ]
   
   export const heritage_city = [
@@ -1093,55 +932,6 @@ export const cold_places = [
         places_to_eat:["Auli ‘D’ Food Plaza", "Pahadi Cafe And Restaurant", "Hotel Auli D Nany’s"],
         tips_to_remember:"Camping can be a good option during the summer season"
 
-    },
-    {
-        id : "",
-        name : "",
-        descripton : "",
-        main_image:"",
-        images : [],
-        major_tourist_attractions:[],
-        best_things_to_so:[],
-        best_time_to_visit:"",
-        how_to_reach:"",
-        places_to_stay:[""],
-        famous_food:[" "],
-        places_to_eat:[""],
-        tips_to_remember:""
-    
-    },
-    
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        },
-        {
-            id : "",
-            name : "",
-            descripton : "",
-            main_image:"",
-            images : [],
-            major_tourist_attractions:[],
-            best_things_to_so:[],
-            best_time_to_visit:"",
-            how_to_reach:"",
-            places_to_stay:[""],
-            famous_food:[" "],
-            places_to_eat:[""],
-            tips_to_remember:""
-        
-        }
+    }
 ]
 
