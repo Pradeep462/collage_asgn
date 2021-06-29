@@ -11,20 +11,20 @@ import { beech_city } from "./data";
 import { warm_palces } from "./data";
 
 
-const Home =() => {
+const Home =({clickedImg,  setClickedImg}) => {
   return (
     <div className="App">
       {/* {Nav} */}
       <Banner  />
-      <Row title="Natural Beauty Cities"  data={natural_city}/> 
-      <Row title="Heritage Cities"  data={heritage_city}/>
-      <Row title="Holy Places"  data={holy_places}/> 
-      <Row title="Best Places to visit in Summer Holydays" data={cold_places} isLargeRow/>
-      <Row title="Best Places to visit in winter Holydays"  data={warm_palces} />
-      <Row title="Beaches"  data={beech_city}/>
+      <Row title="Natural Beauty Cities"  data={natural_city} clickedImg={clickedImg} setClickedImg={setClickedImg}/> 
+      <Row title="Heritage Cities"  data={heritage_city} clickedImg={clickedImg} setClickedImg={setClickedImg}/>
+      <Row title="Holy Places"  data={holy_places} clickedImg={clickedImg} setClickedImg={setClickedImg}/> 
+      <Row title="Best Places to visit in Summer Holydays" data={cold_places} clickedImg={clickedImg} setClickedImg={setClickedImg}/>
+      <Row title="Best Places to visit in winter Holydays"  data={warm_palces} clickedImg={clickedImg} setClickedImg={setClickedImg}/>
+      <Row title="Beaches"  data={beech_city} clickedImg={clickedImg} setClickedImg={setClickedImg}/>
       
      
-      <Row title="National Park"  data={national_parks} />
+      <Row title="National Park"  data={national_parks} clickedImg={clickedImg} setClickedImg={setClickedImg}/>
              
 
     </div>

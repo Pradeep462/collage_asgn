@@ -32,11 +32,11 @@ const Banner=()=>{
              backgroundPosition: "center center",
         }}
         >
-       {/* <div className="banner-contents">
+       <div className="banner-contents">
 
            <h1 className="banner-title"
            >
-               {movie?.title || movie?.name || movie?.original_name}
+              Welcome Pradeep Singh
            </h1>
 
            <div className="banner_buttons">
@@ -46,11 +46,11 @@ const Banner=()=>{
 
             </div>
 
-            <h1 className="banner_description">
+            {/* <h1 className="banner_description">
                 {movie?.overview}
-            </h1>
-           */}
-       {/* </div> */}
+            </h1> */}
+          
+       </div>
 
        <div className="banner-bottom" />
 

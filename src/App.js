@@ -1,12 +1,18 @@
 
 import './App.css';
 import Home from './Home';
+import React, { useEffect, useState } from 'react';
 
 function App() {
+
+  const [clickedImg , setClickedImg] = useState({});
+
+  console.log(clickedImg);
+
   return (
     <div className="App">
 
-    <Home />
+    <Home clickedImg={clickedImg} setClickedImg={setClickedImg}/>
 
       {/* {Nav}
       <Banner  />

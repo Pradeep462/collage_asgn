@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import "./Row.css";
 
 
-const Row=({title , data})=>{
+const Row=({title , data , clickedImg,  setClickedImg})=>{
 
 //     const [movies, setMovies] = useState([]);
 
@@ -21,6 +21,10 @@ const Row=({title , data})=>{
    
 // //console.log(movies);
 
+
+
+
+
     return (
 
        
@@ -32,10 +36,10 @@ const Row=({title , data})=>{
           <div className="row-posters">
                 
                   {data.map(citydata =>(
-                      <div className="card-item ">
+                      <div className="card-item "  key={citydata.id} onClick={() => setClickedImg(citydata)}>
                    
                       <img  
-                //    key={movie.id}
+                     
                       className={`row-poster `}
                       src={`${citydata.main_image}`} />
                       <h5>{citydata.name}</h5>
