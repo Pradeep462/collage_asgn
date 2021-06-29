@@ -32,10 +32,13 @@ const Row=({title , data})=>{
           <div className="row-posters">
                    {}
                   {data.map(citydata =>(
+                      <div className="card-item">
                       <img  
                 //    key={movie.id}
                       className={`row-poster "}`}
                       src={`${citydata.main_image}`} />
+                      <h5>{citydata.name}</h5>
+                      </div>
                   )
                  )  }
           </div>

@@ -1,5 +1,6 @@
 export const warm_palces = [
     {
+        id : "1",
       name: "Udaipur, Rajasthan",
       descripton:
         "Rajasthan’s proud city, also known as the ‘Venice of the East’ is a place you wouldn’t want to miss out on for your next family holiday. Visiting various temples alongside the breathtaking views of the temples in this city is an experience of a lifetime. While you’re around Lake Pichola, a boat ride is not something you would want to miss out on with your family! If you’re looking for the best family destinations in India, Udaipur won’t disappoint you.",
@@ -26,6 +27,7 @@ export const warm_palces = [
       tips_to_remember: "Carry enough water to avoid dehydration",
     },
     {
+        id : "2",
       name: "Jaipur, Rajasthan",
       descripton:
         "Being naturally festive, the Pink City of Rajasthan is one of the best holiday destinations for kids and families of all kinds. A city full of architectural marvels, forts and palaces, well-manicured gardens, and unique courtyards and museums, it makes a great destination for the whole family to enjoy within the city as well as at some of the best picnic spots near Jaipur",
@@ -61,6 +63,7 @@ export const warm_palces = [
         "Avoid visiting during the peak season as the hotels are costlier than anytime of the year",
     },
     {
+        id : "3",
       name: "Kutch, Gujarat",
       descripton:
         "Being the largest district of Gujarat, Kutch is an offbeat holiday destination in India which is perfect for those families who are looking forward to experiencing a bit of rural India. Comprising of more than 900 villages, Kutch is one of the famous places to visit in Gujarat of which, it’s fascinating White Desert or the Rann of Kutch is the most popular one.",
@@ -89,6 +92,7 @@ export const warm_palces = [
       tips_to_remember: "CA",
     },
     {
+        id : "4",
       name: "Jaisalmer, Rajasthan",
       descripton:
         "Jaisalmer is definitely one of the best family vacation destinations in India. Offering a vibrant culture, that will turn your blue day into pink, it is a mesmerizing place to visit. It is known as the Golden city of India and offers various experiences that will leave you in awe of it.",
@@ -115,6 +119,7 @@ export const warm_palces = [
         "Don’t miss the chance of tasting the rajasthani food here",
     },
     {
+        id : "5",
       name: "Pushkar, Rajasthan",
       descripton:
         "Slowly emerging as one of the best family destinations in India, Pushkar is everything traditional and cultural. This destination is what hosts the grand Camel Fair in the Hindu month of Kartika in the most vibrant and vivacious manner possible. Pushkar is a grand Pilgrim town where one can hear the soothing never-ending sounds of bells, drums, and devotional songs. Ranging from blue temples to enormous ghats, this town has everything that makes it the spiritual spot!",
@@ -147,6 +152,7 @@ export const warm_palces = [
       tips_to_remember: "Avoid roaming late at night as the streets get darker",
     },
     {
+        id : "6",
       name: "Mount Abu, Rajasthan",
       descripton:
         "There is absolutely no doubt that Mount Abu is one of the best holiday destinations in India. You can visit this hill station in Rajasthan with your family and enjoy a really special time. Spectacular views are combined with a pleasant temperature all year round",
@@ -176,10 +182,75 @@ export const warm_palces = [
       tips_to_remember:
         "Make sure that you plan a long holiday as the place is just not enough to explore on a weekend",
     },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    }
   ];
   
   export const beech_city = [
     {
+        id : "7",
       name: "Goa",
       descripton:
         "Surprised to see this hippie’s paradise on this list? Well, you’re not alone in feeling that. With the kind of perception that Goa has formed over the past years, not many see this beach paradise as one of the best family holiday destinations in India whereas it’s just the opposite in reality. Offering so many adventure sports, forts and Portuguese churches, countless beaches, luxury homestays in Goa, and unlimited seafood options, Goa is an ultimate destination that is perfect for families as well",
@@ -211,6 +282,7 @@ export const warm_palces = [
       tips_to_remember: "It is recommended to rent a scooter to explore Goa",
     },
     {
+        id : "8",
       name: "Mumbai, Maharashtra",
       descripton:
         "Is Mumbai the best family destination in India? Many would say yes. This fast paced city has a lot in store that will let you dive into its lifestyle and long history. The place where many people come to accomplish their dreams is itself a dreamy destination. From beaches to temples, it is home to several different types of tourist attractions that will give you and your family a break from all the woes! It must be on your list of holiday destinations in india with family",
@@ -241,6 +313,7 @@ export const warm_palces = [
         "Avoid the monsoon season, as the city becomes very crowded",
     },
     {
+        id : "9",
       name: "Havelock Island, Andaman",
       descripton:
         "The most popular and the certainly the most beautiful island of the archipelago, Havelock Island in Andaman is truly one of the best family holiday destinations in India. Introducing the families to ultimate underwater adventures, a fun-filled Andaman tour package offers a complete package of joy and happiness to each and every member of the family. From scuba diving to snorkeling, from making sand castles on the beaches to relishing the authentic cuisines, Havelock Island serves as a dream destination for all the families",
@@ -273,6 +346,7 @@ export const warm_palces = [
       tips_to_remember: "Try to avoid swimming in a school of fish",
     },
     {
+        id : "10",
       name: "Gokarna, Karnataka",
       descripton:
         "Gokarna is a quiet beach town which is also famous for its temples. And if you are looking for a substitute of Goa, then Gokarna in Karnataka is great. The various tourist attractions will be a great way to spend time with your family and ending the day with a nice ocean breeze and seafood",
@@ -309,6 +383,7 @@ export const warm_palces = [
         "This is the perfect destination to replace Goa. Make sure you take full advantage of that!",
     },
     {
+        id : "11",
       name: "Diu, Gujarat",
       descripton:
         "A hidden gem situated in the coastal regions of Gujarat, Diu is a much less talked about destination. Situated in the southern part of Gujarat, Diu has amazing places when it comes to spending precious family time",
@@ -342,23 +417,42 @@ export const warm_palces = [
         "Engage in watersports and visit the shooting spots of Diu",
     },
     {
-      name: "",
-      descripton: "",
-      main_image: "",
-      images: [],
-      major_tourist_attractions: [],
-      best_things_to_so: [],
-      best_time_to_visit: "",
-      how_to_reach: "",
-      places_to_stay: [],
-      famous_food: [],
-      places_to_eat: [],
-      tips_to_remember: "",
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
     },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    }
   ];
   
   export const national_parks =[
       {
+        id : "12",
           name: "Ranthambore National Park, Rajasthan",
           descripton: "The Ranthambore National Park is a paradise for adventure seeking families. Filled with an exotic range of flora and fauna, the park is known for housing the endangered Bengal Tiger. It also has many other attractions located within its boundaries that add to the flavor of exploring the park",
           main_image: "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/11/Ranthambore-National-Park_27th-nov.jpeg",
@@ -373,6 +467,7 @@ export const warm_palces = [
           tips_to_remember: "The park is closed between the months of July to September. Plan your trip accordingly",
         },
         {
+            id : "13",
           name: "Periyar National Park, Kerala",
           descripton: "The Periyar National Park is a fine place to go on a safari with family as you can spend endless amounts of time with nature. The cities and their bustles are faraway from Periyar as the tigers and an exotic collection of flora and fauna acquaint your vacay",
           main_image: "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/01/Bhandardara_21st-Jan1.jpg",
@@ -386,7 +481,9 @@ export const warm_palces = [
           places_to_eat: ["Periyar Tiger Cafe Restaurant","Bamboo Cafe","Hotel Thekkady Cafe"],
           tips_to_remember: "Avoid attention of wild animals by wear earthy tones like brown and green",
         },
+        
         {
+            id : "14",
           name: "Jim Corbett National Park, Uttarakhand",
           descripton: "Nothing less than paradise on earth for wildlife admirers, Jim Corbett National Park is easily one of the finest holiday places in India. This destination has emerged as one of the popular tourist spots amidst families by virtue of being home to the highest number of tigers in the country. This National Park is not only home to some beautiful wildlife but also has plenty of species of beautiful flora waiting to get explored. One also gets a chance to engage in numerous adventure sports when in Jim Corbett!",
           main_image: "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Jim-Corbett-National-Park-aman.jpg",
@@ -400,10 +497,75 @@ export const warm_palces = [
           places_to_eat: ["Mudhouse Under Mangoes","Barbeque Bay","Kundan’s","Doabas Punjabi Dhaba"],
           tips_to_remember: "Ensure to have all the required permits to enter the park",
         },
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        },
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        },
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        },
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        }
   ]
   
   export const heritage_city = [
       {
+        id : "15",
           name: "Hampi, Karnataka",
           descripton: "Hampi is not just a top family but one of the best travel destinations in India as well. It is located on the banks of river Tunga and has a UNESCO recognized World Heritage Site. The ruins of Hampi and other major attractions will definitely allow you to have a great time with your family",
           main_image: "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/04/Hampi-Karnataka_29th-Apr.jpg",
@@ -418,6 +580,7 @@ export const warm_palces = [
           tips_to_remember: "Keep a Hampi map with yourself. It will come in handy!",
         },   
         {
+            id : "16",
           name: "Jaisalmer, Rajasthan",
           descripton:
             "Jaisalmer is definitely one of the best family vacation destinations in India. Offering a vibrant culture, that will turn your blue day into pink, it is a mesmerizing place to visit. It is known as the Golden city of India and offers various experiences that will leave you in awe of it.",
@@ -444,6 +607,7 @@ export const warm_palces = [
             "Don’t miss the chance of tasting the rajasthani food here",
         },  
         {
+            id : "17",
           name: "Mumbai, Maharashtra",
           descripton:
             "Is Mumbai the best family destination in India? Many would say yes. This fast paced city has a lot in store that will let you dive into its lifestyle and long history. The place where many people come to accomplish their dreams is itself a dreamy destination. From beaches to temples, it is home to several different types of tourist attractions that will give you and your family a break from all the woes! It must be on your list of holiday destinations in india with family",
@@ -474,6 +638,7 @@ export const warm_palces = [
             "Avoid the monsoon season, as the city becomes very crowded",
         },  
         {
+            id : "18",
           name: "New Delhi, Delhi",
           descripton: "The heartbeat of India, Dilli or New Delhi is a must-visit family holiday destination in India. It has everything that would make you fall in love with it simply. From interesting attractions to sacred temples, it will treat both you and your kids. Apart from that, it also offers delicious street foods that will complete your holiday on a happy note.",
           main_image: "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/01/New-Delhi-Delhi.jpg",
@@ -488,6 +653,7 @@ export const warm_palces = [
           tips_to_remember: "Only drink bottled water",
         },  
         {
+            id : "19",
           name: "Agra, Uttar Pradesh",
           descripton: "Agra, the city famous for its architectural wonder, the Taj Mahal, is another one of the best family vacation destinations in India that you can visit. It is a weekend getaway from Delhi and makes for an ideal vacation spot. The Taj Mahal is one monument that you should definitely visit in your lifetime. Other than that there is the Agra Fort that one should explore, and also the red sandstone city of Fatehpur Sikri.",
           main_image: "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/03/The-Taj-Mahal-woman-cover.jpg",
@@ -502,6 +668,7 @@ export const warm_palces = [
           tips_to_remember: "Visit the Taj Mahal early in the morning to avoid the crowd",
         },  
         {
+            id : "20",
           name: "Udaipur, Rajasthan",
           descripton:
             "Rajasthan’s proud city, also known as the ‘Venice of the East’ is a place you wouldn’t want to miss out on for your next family holiday. Visiting various temples alongside the breathtaking views of the temples in this city is an experience of a lifetime. While you’re around Lake Pichola, a boat ride is not something you would want to miss out on with your family! If you’re looking for the best family destinations in India, Udaipur won’t disappoint you.",
@@ -529,6 +696,7 @@ export const warm_palces = [
         },  
    
         {
+            id : "21",
           name: "Jaipur, Rajasthan",
           descripton:
             "Being naturally festive, the Pink City of Rajasthan is one of the best holiday destinations for kids and families of all kinds. A city full of architectural marvels, forts and palaces, well-manicured gardens, and unique courtyards and museums, it makes a great destination for the whole family to enjoy within the city as well as at some of the best picnic spots near Jaipur",
@@ -566,6 +734,7 @@ export const warm_palces = [
   ]
  export const natural_city = [
     {
+        id : "22",
         name : "Shimla, Himachal Pradesh",
         descripton : "Having served as the summer capital of the British era, Shimla in Himachal Pradesh is considered to be the most famous retreats of all the best travel destinations in India. Being the most-sought destinations by all kind of travelers, shopping at Mall Road and relishing the charm of the toy train are few of the best things to do in Shimla which are enjoyed by kids and families alike.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_569073934.jpg",
@@ -581,6 +750,7 @@ export const warm_palces = [
          
     },
     {
+        id : "23",
         name : "Nainital, Uttarakhand",
         descripton : "Set around a shimmering lake, Nainital is one of the top ten holiday destinations in India which serves Indian families as the best place to spend the summers at. With so many fun things to do in Nainital like that of cable car ride, and boating at the Nainital Lake, your trip to this paradise is sure to be a hit",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_565402126.jpg" ,
@@ -597,6 +767,7 @@ export const warm_palces = [
     },
     
     {
+        id : "24",
             name : " Darjeeling, West Bengal",
             descripton : "Offering stunning views of Mount Kanchenjunga in the backdrop, Darjeeling is considered to be one of the best places for children’s holidays in India as much as it is famous for families and couples. From the quiet environs of Peace Pagoda to the joys of the Toy Train, one will never run out on fun tourist places in Darjeeling. If you are a foodie, then you must try the local food in Darjeeling and you can also visit the famous cafes and enjoy a cup of coffee. From visiting beautiful monasteries to hopping on a toy train ride, there are a lot of enticing things that you can do on your family trip to Darjeeling.",
             main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_476043799.jpg",
@@ -612,6 +783,7 @@ export const warm_palces = [
     
      },
      {
+        id : "25",
         name : "Ooty, Tamil Nadu",
         descripton : "Reckoned to be the queen of the Blue Mountains in South India, Ooty is not only one of the best family holiday destinations in India but also the most popular hill stations in the country. With delightful places to visit in Ooty like that of Botanical Garden, Pykara Lake, and Boat House, your family vacation is sure to be a hit in this hilly paradise. So, are you ready to visit one of the best family vacation destinations in India?",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_228041755.jpg",
@@ -627,6 +799,7 @@ export const warm_palces = [
 
     },
     {
+        id : "26",
         name : "Dharamshala, Himachal Pradesh",
         descripton : "Located in the hills of Himachal Pradesh, this is one of the summer family holiday destinations in India. An overnight journey from Delhi, it also makes for an amazing weekend getaway. The views of the mountains are stunning and the environs are peaceful. If your family is game to it, then you can also set up tents and stay overnight. Explore the monasteries and relish the local flavours of this hill town.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/08/Trekking-near-Kareri-Lake-one-of-top-things-to-do-in-Dharamshala-ss0108217.jpg",
@@ -642,6 +815,7 @@ export const warm_palces = [
 
     },
     {
+        id : "27",
         name : "Shillong, Meghalaya",
         descripton : "The capital city of the most famous state of all seven sisters – Meghalaya, Shillong attracts a lot of families due to its scenic vistas, and picturesque natural attractions. Much famed as “the abode of clouds”, Shillong is known for its ancient traditions, well-manicured gardens, mesmeric waterfalls, and lush greenery which makes it one of the best family holiday destinations in India.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_148201862.jpg",
@@ -657,6 +831,7 @@ export const warm_palces = [
 
     },
     {
+        id : "28",
         name : "Gangtok, Sikkim",
         descripton : "Serving as a home to the many pilgrimage sites of the Buddhist population, as well as a base camp for the trekkers and adventure enthusiasts, Gangtok is the also famous for offering the most scintillating views of the Himalayas. With trekking being one of the most popular things to do in Gangtok, the land also features famous monasteries, pristine lakes and waterfalls, and great shopping spots that makes it one of the best places to visit in August in India with family.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_376575871.jpg",
@@ -672,6 +847,7 @@ export const warm_palces = [
 
     },
     {
+        id : "29",
         name : "Mussoorie, Uttarakhand",
         descripton : "One of the most popular places for family trips in India is definitely Mussoorie. From a long weekend trip to a short getaway, Mussoorie has proven to be a beloved destination that has much to offer. The tranquility in some corners with hustling streets in one makes this destination one of its kind. Also known as the ‘Queen of the Hills’, Mussoorie is a destination that has something for everyone. The sweltering weather is just another plus to this amazing spot!",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/01/Cover-Image-of-Places-to-Visit-in-Mussoorie_22nd-Jan.jpg",
@@ -690,6 +866,7 @@ export const warm_palces = [
 
 export const holy_places = [
     {
+        id : "30",
         name : "Rishikesh, Uttarakhand",
         descripton : "A mixture of everything, Rishikesh offers a sorted family holiday! May it be temples beside rivers or sports activities, it has so much in store that you will be left spoilt for choice. Start your day by visiting the famous temples, not to miss Lakshman Jhula, indulge in the adventures and end your day dining at one of the popular cafes. It is one of the family vacation destinations on a budget in India.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Rishikesh-Uttarakhand.jpg",
@@ -704,6 +881,7 @@ export const holy_places = [
         tips_to_remember:"Be part of the camping experience in Rishikesh"
     },
     {
+        id : "31",
         name : "Amritsar, Punjab",
         descripton : "Amritsar is the largest city in Punjab and is generally known for Golden Temple. It is one of the finest holiday destinations in India as it will also give you access to the fine food and culture of Punjab. The attractions that remind us of great Independence are also there in the city. ",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Amritsar.jpg",
@@ -720,6 +898,7 @@ export const holy_places = [
     }
     ,
     {
+        id : "32",
         name : "Mata Vaishnodevi, Jammu",
         descripton : "Mata Vaishnodevi Temple in Katra, Jammu is the ideal destination for many families. If this has not yet been added to your itinerary, then add it today. It is utterly popular due to the temple which attracts pilgrims from all over the country. The temple on the hill is a special one for many families visiting it.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/09/Best-Time-To-Visit-Vaishno-Devi.jpg",
@@ -735,6 +914,7 @@ export const holy_places = [
 
     },
     {
+        id : "33",
         name : " Rameswaram, Tamil Nadu",
         descripton : "Rameswaram is a coastal town on Pamban Island in Tamil Nadu. As much as Rameswaram is famous for its temples and being a “Char Dham” – it is also a coastal paradise. The weather is fine on most days of the year and you can enjoy a great time with your family.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/01/best-time-to-visit-rameswaram.jpg",
@@ -751,6 +931,7 @@ export const holy_places = [
     }
    ,
     {
+        id : "34",
         name : "Tirupati, Andhra Pradesh",
         descripton : "This temple city in Andhra Pradesh is definitely worthy of a place in the list of top family destinations in India. Not just temples, the city also has hills and amazing views making it the perfect place for families to unwind themselves.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/02/Waterfalls-In-Tirupati_20th-feb.jpg",
@@ -766,6 +947,7 @@ export const holy_places = [
 
     },
     {
+        id : "35",
         name : "Mahabaleshwar, Maharashtra",
         descripton : "A hill station in the Western Ghats, Mahabaleshwar is a great destination for families looking for long stays. There are plenty of attractions and places in Mahabaleshwar that will keep your vacation afloat throughout the time you spend there.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/11/Mahabaleshwar_trip.jpg",
@@ -781,6 +963,7 @@ export const holy_places = [
 
     },
     {
+        id : "36",
         name : "Varanasi, Uttar Pradesh",
         descripton : "A city that has seen so much and yet the essence of its old days can be seen and observed is no less than a gem. That’s right, the city of Varanasi can surely be crowned as the spiritual capital of India if only one would take a stroll in the streets listening to the temple bells on the ghats. Make sure you spend some quiet time on the ghats of river Ganges to soothe your soul while you’re in this city! It is undoubtedly one of the best places to visit with parents in India!",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/Varanasi.jpg",
@@ -796,6 +979,7 @@ export const holy_places = [
 
     },
     {
+        id : "37",
         name : " Shirdi, Maharashtra",
         descripton : "If Tirupati is there, Shirdi cannot be far behind too. The temple city attracts thousands of pilgrims each year and is a great destination for families to pray to the lord too. The city has many other attractions too which can be explored either over a weekend or a long weekend holiday!",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/01/Cover-Image-of-Hill-Stations-near-Shirdi-_21st-Jan.jpg",
@@ -814,6 +998,7 @@ export const holy_places = [
 
 export const cold_places = [
     {
+        id : "38",
         name : "Srinagar, Kashmir ",
         descripton : "The much-celebrated heaven on earth, Srinagar is the jewel of Kashmir which happens to be the favorite destination of almost everyone in India. Rich in nature, hospitality, and experiences that blends well the amazing weather and the best places to visit in Srinagar, this bustling capital of Kashmir is the best place for a family trip in India.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_309339749.jpg",
@@ -829,6 +1014,7 @@ export const cold_places = [
 
     },
     {
+        id : "39",
         name : "Shimla, Himachal Pradesh",
         descripton : "Having served as the summer capital of the British era, Shimla in Himachal Pradesh is considered to be the most famous retreats of all the best travel destinations in India. Being the most-sought destinations by all kind of travelers, shopping at Mall Road and relishing the charm of the toy train are few of the best things to do in Shimla which are enjoyed by kids and families alike.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_569073934.jpg",
@@ -845,6 +1031,7 @@ export const cold_places = [
     },
     
     {
+        id : "40",
         name : "Manali, Himachal Pradesh",
         descripton : "If you are looking for cheap family holiday destinations in India, then you could pick Manali in Himachal Pradesh. It is a beautiful resort town with quite a lot of attractions. The city has activities for both adults and kids. Solang Valley is one major attraction where one can indulge in adventure sports. Try parasailing on your next visit to Manali. One can book a stay at Mall Road there for an easier commute to the attraction points in the city.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/shutterstock_693251473.jpg",
@@ -860,6 +1047,7 @@ export const cold_places = [
 
     },
     {
+        id : "41",
         name : "Ladakh, Kashmir",
         descripton : "Though this offbeat gem does not seem ideal to be counted in one of the best family holiday destinations in India, many families have broken this stereotypical perception by exploring the best of Ladakh in winter. Ladakh seems every bit of a paradise in winters wherein families can make the most of the tourist attractions like that of Shanti Stupa, Leh Palace, and Nubra Valley.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/10/shutterstock_474367531.jpg",
@@ -875,6 +1063,7 @@ export const cold_places = [
 
     },
     {
+        id : "42",
         name : "Spiti Valley, Himachal Pradesh",
         descripton : "When planning family trips in India and looking for something offbeat and untouched natural beauty, you can surely consider trying Spiti Valley Trek. This destination is nothing less than heaven one earth for adventure seeking families by virtue of offering trekking and hiking trails that reek of surreality from every nook. The winding long roads and the deep, lush valleys of Spiti never fail to take away the breath of travelers. Home to an extensive number of snow-covered mountains, this cold desert is truly magical.",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/01/Spiti-Valley.jpg",
@@ -890,6 +1079,7 @@ export const cold_places = [
 
     },
     {
+        id : "43",
         name : "Auli, Uttarakhand",
         descripton : "Tagged as the skiing destination of the country, Auli is one of the most stunning places for family trips in India. With numerous apple orchards covering its floors, towering pine trees forming the canopies, and the never-ending natural wonders swaying, Auli is a destination like no other. This hill resort is full of shimmering slopes and the cleanest environment one has ever witnessed. These slopes are exactly what makes Auli popular as a skiing destination and thus appealing to more and more travelers every year. Auli is one of the best travel destinations in India for family and has a lot to offer!",
         main_image:"https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/11/Auli-cover_27th-Nov.jpg",
@@ -903,5 +1093,55 @@ export const cold_places = [
         places_to_eat:["Auli ‘D’ Food Plaza", "Pahadi Cafe And Restaurant", "Hotel Auli D Nany’s"],
         tips_to_remember:"Camping can be a good option during the summer season"
 
-    }
+    },
+    {
+        id : "",
+        name : "",
+        descripton : "",
+        main_image:"",
+        images : [],
+        major_tourist_attractions:[],
+        best_things_to_so:[],
+        best_time_to_visit:"",
+        how_to_reach:"",
+        places_to_stay:[""],
+        famous_food:[" "],
+        places_to_eat:[""],
+        tips_to_remember:""
+    
+    },
+    
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        },
+        {
+            id : "",
+            name : "",
+            descripton : "",
+            main_image:"",
+            images : [],
+            major_tourist_attractions:[],
+            best_things_to_so:[],
+            best_time_to_visit:"",
+            how_to_reach:"",
+            places_to_stay:[""],
+            famous_food:[" "],
+            places_to_eat:[""],
+            tips_to_remember:""
+        
+        }
 ]
+

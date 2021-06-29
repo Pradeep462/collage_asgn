@@ -20,10 +20,10 @@ const Home =() => {
       <Row title="Heritage Cities"  data={heritage_city}/>
       <Row title="Holy Places"  data={holy_places}/> 
       <Row title="Best Places to visit in Summer Holydays" data={cold_places} isLargeRow/>
-
+      <Row title="Best Places to visit in winter Holydays"  data={warm_palces} />
       <Row title="Beaches"  data={beech_city}/>
       
-      <Row title="Best Places to visit in winter Holydays"  data={warm_palces} />
+     
       <Row title="National Park"  data={national_parks} />
              
 

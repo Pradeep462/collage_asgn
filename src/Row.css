@@ -9,6 +9,9 @@
 .row-posters::-webkit-scrollbar {
   display: none;
 }
+.card-item{
+  margin:10px;
+}
 
 .row-poster {
   object-fit: contain;
