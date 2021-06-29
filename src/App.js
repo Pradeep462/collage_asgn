@@ -1,13 +1,14 @@
 
 import './App.css';
-import Row from "./Row";
-import Banner from "./Banner";
-import requests from './requests';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
-      {/* {Nav} */}
+
+    <Home />
+
+      {/* {Nav}
       <Banner  />
       <Row title="NETFLIX ORIGINALS" fetchURL={requests.fetchActionMovies} isLargeRow/>
 
@@ -16,7 +17,7 @@ function App() {
       <Row title="Comedy Movie"  fetchURL={requests.fetchComedyMovies}/>
       <Row title="Action Movies"  fetchURL={requests.fetchActionMovies}/> 
       <Row title="Romance Movies"  fetchURL={requests.fetchRomanceMovies} />
-       
+        */}
              
 
     </div>
