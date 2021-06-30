@@ -1,4 +1,6 @@
+
 import React from 'react';
+
 import Banner from './Banner';
 import "./ShowCityData.css";
 
@@ -68,8 +70,6 @@ const ShowCityData = ({ clickedImg }) => {
                     <span >  Tips to remember :   </span ><span className=" banner_description_child ">{clickedImg.tips_to_remember}</span>
                 </div>
             </div>
-        </div>
-    );
-};
+
 
 export default ShowCityData;

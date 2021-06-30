@@ -1,3 +1,4 @@
+
 import Row from "./Row";
 import Banner from "./Banner";
 import './Home.css'
@@ -11,6 +12,7 @@ import { warm_palces } from "./data";
 
 const Home = ({ clickedImg, setClickedImg }) => {
   return (
+
     <div className="home">
       <Banner bannerImg="https://i.pinimg.com/originals/15/be/33/15be33d514f99d4cb6bc453e405cbb6d.jpg"/>
       <Row
@@ -50,6 +52,7 @@ const Home = ({ clickedImg, setClickedImg }) => {
         setClickedImg={setClickedImg}
       />
 
+  
       <Row
         title="National Park"
         data={national_parks}
