@@ -1,32 +1,32 @@
-
-import './App.css';
-import Home from './Home';
-import React, { useEffect, useState } from 'react';
-
+import "./App.css";
+import Home from "./Home";
+import Login from "./Login";
+import Header from "./Header";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import React, { useEffect, useState } from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 function App() {
-
-  const [clickedImg , setClickedImg] = useState({});
+  const [clickedImg, setClickedImg] = useState({});
 
   console.log(clickedImg);
 
   return (
-    <div className="App">
-
-    <Home clickedImg={clickedImg} setClickedImg={setClickedImg}/>
-
-      {/* {Nav}
-      <Banner  />
-      <Row title="NETFLIX ORIGINALS" fetchURL={requests.fetchActionMovies} isLargeRow/>
-
-      <Row title="Traending Movies"  fetchURL={requests.fetchTrendingMovies}/>
-      <Row title="Top Rated"  fetchURL={requests.fetchTopRated}/> 
-      <Row title="Comedy Movie"  fetchURL={requests.fetchComedyMovies}/>
-      <Row title="Action Movies"  fetchURL={requests.fetchActionMovies}/> 
-      <Row title="Romance Movies"  fetchURL={requests.fetchRomanceMovies} />
-        */}
-             
-
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/login">
+          <Login/>
+        </Route>
+        <Route path="/">
+          {/* <Header/> */}
+          <Home/>
+        </Route>
+      </Switch>
+  </Router>
   );
 }
 
