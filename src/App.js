@@ -10,16 +10,17 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import ShowCityData from "./ShowCityData";
 function App() {
-  const [clickedImg, setClickedImg] = useState({});
-
-  console.log(clickedImg);
-
   return (
     <Router>
       <Switch>
         <Route path="/login">
           <Login/>
+        </Route>
+        <Route path="/city/:id">
+          {/* <Header/> */}
+          <ShowCityData/>
         </Route>
         <Route path="/">
           {/* <Header/> */}

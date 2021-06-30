@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./Row.css";
-
+import {
+    Link
+  } from "react-router-dom";
 const Row = ({ title, data, clickedImg, setClickedImg }) => {
   return (
     <div className="row">
@@ -11,11 +13,13 @@ const Row = ({ title, data, clickedImg, setClickedImg }) => {
           <div
             className="card-item "
             key={citydata.id}
-            onClick={() => setClickedImg(citydata)}
           >
+                 <Link to={`city/${citydata.id}`}>
             <img className={`row-poster `} src={`${citydata.main_image}`} />
+            </Link>
             <h5>{citydata.name}</h5>
           </div>
+         
         ))}
       </div>
     </div>

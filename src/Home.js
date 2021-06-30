@@ -19,7 +19,7 @@ const Home = ({ clickedImg, setClickedImg }) => {
         title="Natural Beauty Cities"
         data={natural_city}
         clickedImg={clickedImg}
-        setClickedImg={setClickedImg}
+        
       />
       <Row
         title="Heritage Cities"
@@ -57,7 +57,7 @@ const Home = ({ clickedImg, setClickedImg }) => {
         title="National Park"
         data={national_parks}
         clickedImg={clickedImg}
-        setClickedImg={setClickedImg}
+        
       />
     </div>
   );

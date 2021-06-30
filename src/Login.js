@@ -39,16 +39,16 @@ export default function Login() {
             <div className="login__container">
                 <h1>Sign-in</h1>
                 <form>
-                    <div class="form-group">
+                    <div className="form-group">
                     <label for="exampleInputEmail1">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" value={email} onChange={(e)=>setEmail(e.target.value)}/>
-                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" value={email} onChange={(e)=>setEmail(e.target.value)}/>
+                    <small id="emailHelp" className="form-text text-muted">We'll never share your email with anyone else.</small>
                     </div>
                     <div class="form-group">
                     <label for="exampleInputPassword1">Password</label>
-                    <input ttype="password" class="form-control" id="exampleInputPassword1" placeholder="Password" value={password} onChange={(e)=>setPassword(e.target.value)}/>
+                    <input ttype="password" className="form-control" id="exampleInputPassword1" placeholder="Password" value={password} onChange={(e)=>setPassword(e.target.value)}/>
                     </div>
-                    <button type="submit" class="btn btn-warning btn-block" onClick={signIn} className="login_signInButton">Sign In</button>
+                    <button type="submit" className="btn btn-success btn-block" onClick={signIn}>Sign In</button>
                 </form>
                 <p>
                     By signing-in you agree to  Conditions of Use & Sale. Please
