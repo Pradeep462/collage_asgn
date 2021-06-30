@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import './Banner.css';
 
 
-const Banner=()=>{
+const Banner=({bannerImg})=>{
 
 //     const [movie, setMovie] = useState([]);
 
@@ -28,7 +28,7 @@ const Banner=()=>{
      <header className="banner"
          style={{
              backgroundSize: "cover",
-             backgroundImage : `url("https://i.pinimg.com/originals/15/be/33/15be33d514f99d4cb6bc453e405cbb6d.jpg")`,
+             backgroundImage : `url(${bannerImg})`,
              backgroundPosition: "center center",
         }}
         >
